@@ -39,17 +39,13 @@ This publication has been produced with the assistance of the European Union.
 
 The contents of this publication are the sole responsibility of Taiwan Alliance to End the Death Penalty and can in no way be taken to reflect the views of the European Union.
 
-![](images/image6.png)
+![](images/image4.jpg)
 
-出版：台灣廢除死刑推動聯盟
+* 出版：台灣廢除死刑推動聯盟
+* 主編：林欣怡、林慈偉
+* 死刑判決工作小組：古進皓、初云亭、林慈偉、林紫彤、張淇琳、張禎晏、張譽馨、莊艾潔、許珮甄、黃競文、盧于聖、鍾鳳芝
+* 封面設計：李杰庭
+* 出版日期：2015年12月
 
-主編：林欣怡、林慈偉
-
-死刑判決工作小組：古進皓、初云亭、林慈偉、林紫彤、張淇琳、張禎晏、張譽馨、莊艾潔、許珮甄、黃競文、盧于聖、鍾鳳芝
-
-封面設計：李杰庭
-
-出版日期：2015年12月
-
-本報告採創用CC授權                                                    |
-| ![by-nc-nd](images/image6.png)
+本報告採創用CC授權
+![by-nc-nd](images/image6.png)
