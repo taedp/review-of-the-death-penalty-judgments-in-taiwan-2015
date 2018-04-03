@@ -99,7 +99,7 @@
 
 -----
 
-[^1]: 盧正案請參考蔡崇隆所寫，收錄在《正義的陰影》一書中的〈小警察的輓歌---盧正案〉[[http://www.taedp.org.tw/story/1829]](http://www.taedp.org.tw/story/1829)。
+[^1]: 盧正案請參考蔡崇隆所寫，收錄在[《正義的陰影》](https://www.gitbook.com/book/jrf-tw/shadow_of_justice/details)一書中的[〈小警察的輓歌---盧正案〉](http://www.taedp.org.tw/story/1829)。
 
 [^2]: 補上報告的內容，將內容重新上網（因為網站轉換而遺失了）
 
